@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "Venkatesh N C",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "i": "^0.3.7"
+  }
 }
